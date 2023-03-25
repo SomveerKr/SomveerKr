@@ -32,12 +32,6 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 
 ## &#x1f4c8; GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somveerkr&show_icons=true&locale=en&layout=compact" alt="somveerkr" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somveerkr&show_icons=true&locale=en" alt="somveerkr" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somveerkr&" alt="somveerkr" /></p>
-
 <br>
 
 <a href="https://github.com/SomveerKr">
