@@ -27,19 +27,21 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somveerkr" alt="somveerkr" /></a> </p>
 
 
+
+
+
+## &#x1f4c8; GitHub Stats
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=somveerkr&show_icons=true&locale=en&layout=compact" alt="somveerkr" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somveerkr&show_icons=true&locale=en" alt="somveerkr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somveerkr&" alt="somveerkr" /></p>
 
-
-## &#x1f4c8; GitHub Stats
-
 <br>
 
 <a href="https://github.com/SomveerKr">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somveerkr&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somveerkr&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/SomveerKr">
