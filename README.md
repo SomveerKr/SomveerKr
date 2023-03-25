@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Somveer Kumar</h1>
+<div align="center">
+<img src="https://github.com/SomveerKr/SomveerKr/blob/main/ReadmeHeader.png" align="center" style="width: 100%" />
+</div> 
 <h3 align="center">A passionate web developer and UI/UX designer from India</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somveerkr" alt="somveerkr" /></a> </p>
