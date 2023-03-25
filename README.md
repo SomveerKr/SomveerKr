@@ -1,12 +1,14 @@
 <div align="center">
 <img src="https://github.com/SomveerKr/SomveerKr/blob/main/ReadmeHeader.png" align="center" style="width: 100%" />
 </div> 
-<h3 align="center">A passionate web developer and UI/UX designer from India</h3>
+Hey there 👋
+
+I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in front-end development.
+
+👨‍💻Want to know more about me? [Check out my portfolio.](somveerkumar.netlify.app)
 
 
 - 🌱 I’m currently learning **Python, E-commerce plateforms**
-
-- 👨‍💻 All of my projects are available at [somveerkumar.netlify.app](somveerkumar.netlify.app)
 
 - 📝 I regularly write articles on [https://hashnode.com/@SomveerKumar](https://hashnode.com/@SomveerKumar)
 
@@ -30,4 +32,20 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=somveerkr&show_icons=true&locale=en" alt="somveerkr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=somveerkr&" alt="somveerkr" /></p>
+
+
+## &#x1f4c8; GitHub Stats
+
+<br>
+
+<a href="https://github.com/SomveerKr">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=somveerkr&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/SomveerKr">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=somveerkr&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="SomveerKr's GitHub Stats" />
+</a>
+
+<br>
+<br>
 
