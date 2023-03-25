@@ -28,6 +28,33 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 
 
 
+## 📌 Pinned Repositories
+
+<br>
+
+<a href="https://github.com/SomveerKr/TenziesGame-React">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=somveerkr&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/SomveerKr/Notes-App-in-React">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=somveerkr&repo=pomegradient&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+
+<a href="https://github.com/SomveerKr/Authentication-Project">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=somveerkr&repo=ng-limeade&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/SomveerKr/Keeper-App">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=somveerkr&repo=officeapi&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<br>
+<br>
+
 
 
 ## &#x1f4c8; GitHub Stats
