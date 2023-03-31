@@ -78,7 +78,7 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
   
 
 <!-- Github Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somveerkr" alt="somveerkr" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somveerkr" alt="somveerkr" /></a> </p> -->
 
 
 ## &#x1f4c8; GitHub Stats
