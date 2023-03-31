@@ -39,11 +39,11 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 <!--   JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
 <!--  MongoDB  -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="/assets/mongodb.png" alt="mongodb" width="40" height="40"/> </a>   
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="/assets/mongodb.png" alt="mongodb" width="45" height="40"/> </a>   
 <!-- Next.js -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="/assets/next.png" alt="nextjs" width="40" height="40"/> </a>   
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="/assets/next.png" alt="nextjs" width="60" height="40"/> </a>   
 <!-- Node.js -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="/assets/node.png" alt="nodejs" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="/assets/node.png" alt="nodejs" width="60" height="40"/> </a>  
 <!--Python -->
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <!-- React.js -->
