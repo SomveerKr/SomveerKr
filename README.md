@@ -8,8 +8,6 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 👨‍💻Want to know more about me? [Check out my portfolio.](somveerkumar.netlify.app)
 
 
-- 🌱 I’m currently learning **Python, E-commerce plateforms**
-
 - 📝 I regularly write articles on [https://hashnode.com/@SomveerKumar](https://hashnode.com/@SomveerKumar)
 
 - 📫 How to reach me **7somveerkumar@gmail.com**
