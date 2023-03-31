@@ -74,7 +74,7 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 <!-- Postman -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
 <!-- Sanity -->
-<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="postman" width="40" height="40"/> 
+<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="postman" width="70" height="40"/> 
 </p>
   
   
