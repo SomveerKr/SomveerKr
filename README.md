@@ -28,8 +28,8 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 <!--   CSS -->
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <!--   <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>  -->  
-<!--   Express Logo -->
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="/assets/express.png" alt="express" width="40" height="40"/> </a> 
+<!--   Express Logo, width->90 -->
+<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="/assets/express.png" alt="express" width="90" height="40"/> </a> 
 <!--   Git -->
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
 <!--   HTML -->
@@ -39,11 +39,11 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 <!--   JavaScript -->
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>   
 <!--  MongoDB  -->
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>   
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="/mongodb.png" alt="mongodb" width="40" height="40"/> </a>   
 <!-- Next.js -->
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>   
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="/next.png" alt="nextjs" width="40" height="40"/> </a>   
 <!-- Node.js -->
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>  
+<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="/node.png" alt="nodejs" width="40" height="40"/> </a>  
 <!--Python -->
 </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <!-- React.js -->
