@@ -5,7 +5,7 @@ Hey there 👋
 
 I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in front-end development.
 
-👨‍💻Want to know more about me? [Check out my portfolio.](somveerkumar.netlify.app)
+👨‍💻Want to know more about me? [Check out my portfolio.](https://somveerkumar.netlify.app/)
 
 
 - 📝 I regularly write articles on [https://hashnode.com/@SomveerKumar](https://hashnode.com/@SomveerKumar)
