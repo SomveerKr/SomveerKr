@@ -5,10 +5,10 @@ Hey there 👋
 
 I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in front-end development.
 
-👨‍💻Want to know more about me? [Check out my portfolio.](https://somveerkumar.netlify.app/){:target="_blank" rel="noopener"}
+👨‍💻Want to know more about me? [Check out my portfolio.](https://somveerkumar.netlify.app/:target="_blank" rel="noopener")
 
 
-- 📝 I regularly write articles on [https://hashnode.com/@SomveerKumar](https://hashnode.com/@SomveerKumar){:target="_blank" rel="noopener"}
+- 📝 I regularly write articles on [https://hashnode.com/@SomveerKumar](https://hashnode.com/@SomveerKumar:target="_blank" rel="noopener")
 
 - 📫 How to reach me **7somveerkumar@gmail.com**
 
