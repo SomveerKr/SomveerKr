@@ -3,7 +3,7 @@
 </div> 
 Hey there 👋
 
-I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in front-end development.(Also I'm a 3rd year law student)
+I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in front-end development.(Also I'm a 4th year law student)
 
 👨‍💻Want to know more about me? <a href="https://somveerkumar.netlify.app/" target="_blank" rel="noreferrer" alt="Somveer Kumar Website" >Check out my portfolio</a>
 
