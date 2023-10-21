@@ -8,7 +8,7 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 👨‍💻Want to know more about me? <a href="https://somveerkumar.netlify.app/" target="_blank" rel="noreferrer" alt="Somveer Kumar Website" >Check out my portfolio</a>
 
 
-- 📝 I regularly write articles on <a href="https://hashnode.com/@SomveerKumar" target="_blank" rel="noreferrer" alt="Somveer Kumar Website" >Hashnode</a>
+- 📝 Check my articles on <a href="https://hashnode.com/@SomveerKumar" target="_blank" rel="noreferrer" alt="Somveer Kumar Website" >Hashnode</a>
 
 - 📫 How to reach me **7somveerkumar@gmail.com**
 
