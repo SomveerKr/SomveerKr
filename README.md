@@ -10,7 +10,7 @@ I’m Somveer Kumar, a full stack developer, ui/ux designer who specializes in f
 
 - 📝 Check my articles on <a href="https://hashnode.com/@SomveerKumar" target="_blank" rel="noreferrer" alt="Somveer Kumar Website" >Hashnode</a>
 
-- 📫 How to reach me **7somveerkumar@gmail.com**
+- 📫 How to reach me **work.somveerk@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
