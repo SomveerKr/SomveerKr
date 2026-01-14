@@ -47,10 +47,6 @@ Hey there 👋
 <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="postman" width="70" height="40"/> 
 </p>
   
-  
-
-<!-- Github Trophies -->
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=somveerkr" alt="somveerkr" /></a> </p>
 
 
 ## &#x1f4c8; GitHub Stats
