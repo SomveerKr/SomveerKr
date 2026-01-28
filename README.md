@@ -41,13 +41,12 @@ I am Somveer Kumar
 <p align="left">
 <!-- Figma -->
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-
 <!-- Postman -->
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
+<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <!-- Sanity -->
-<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="postman" width="70" height="40"/> 
+<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="postman" width="70" height="40"/> </a>
 <!-- Law -->
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/thumbnails/044/812/167/small/sophisticated-law-firm-logo-on-transparent-background-png.png" alt="law" width="70" height="40"/> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/thumbnails/044/812/167/small/sophisticated-law-firm-logo-on-transparent-background-png.png" alt="law" width="70" height="40"/> </a>
 </p>
   
 
