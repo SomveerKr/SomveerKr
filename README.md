@@ -1,7 +1,8 @@
 <div align="center">
-<img src="https://github.com/SomveerKr/SomveerKr/blob/main/ReadmeHeader.png" align="center" style="width: 100%" />
-</div> 
 Hey there 👋
+I am Somveer Kumar
+</div> 
+
 
 "Dream it, I'll build it. As a Full Stack and Python Programmer, I leverage AI to turn your ideas into functional software, incredibly fast."
 
