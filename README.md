@@ -24,7 +24,7 @@ I am Somveer Kumar
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
   <!-- Flask -->
- <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://nordicapis.com/wp-content/uploads/How-to-Create-an-API-Using-The-Flask-Framework.png"  alt="flask" width="40" height="40" /> </a>
+ <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/e5382hct74si/6Dqa9T8XOOC95yJb0z9jew/ce4932b8d23046f260510e24c1ec39e1/thumbnail.png"  alt="flask" height="40" /> </a>
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="/assets/next.png" alt="nextjs" width="60" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="/assets/node.png" alt="nodejs" width="60" height="40"/> </a> 
