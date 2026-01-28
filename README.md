@@ -47,7 +47,7 @@ I am Somveer Kumar
 <!-- Sanity -->
 <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="postman" width="70" height="40"/> 
 <!-- Law -->
-<a href="#" target="_blank" rel="noreferrer"> <img src="https://png.pngtree.com/template/20190323/ourmid/pngtree-law-firm-logo-law-firm-logo-image_82023.jpg" alt="law" width="70" height="40"/> 
+<a href="#" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/thumbnails/044/812/167/small/sophisticated-law-firm-logo-on-transparent-background-png.png" alt="law" width="70" height="40"/> 
 </p>
   
 
