@@ -46,7 +46,7 @@ I am Somveer Kumar
 <!-- Postman -->
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <!-- Sanity -->
-<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="postman" height="40"/> </a>
+<a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/sanity.svg" alt="postman" height="30"/> </a>
 <!-- Law -->
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/premium-vector/gavel-icon-vector-law-judge-s-hammer-symbol-sign-auction-hammer-isolated-white_359398-607.jpg" alt="law" width="40" height="40"/> </a>
 </p>
