@@ -12,7 +12,7 @@ I am Somveer Kumar
 <!--  - 📝 Check my articles on <a href="https://hashnode.com/@SomveerKumar" target="_blank" rel="noreferrer" alt="Somveer Kumar Website" >Hashnode</a> -->
 
 - 📫 How to reach me **work.somveerk@gmail.com**
-- Check out client reviews👉 <a href="https://contra.com/SomveerKumar?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=SomveerKumar" target="_blank" rel="noreferrer" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/replit.svg" alt="https://contra.com/SomveerKumar?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=SomveerKumar" height="30" width="40" /></a>
+- Check out client reviews👉 <a href="https://contra.com/SomveerKumar?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=SomveerKumar" target="_blank" rel="noreferrer" ><img align="center" src="https://framerusercontent.com/images/9dXyIvAsRV92NQAXc09QiN6KF0.png" alt="https://contra.com/SomveerKumar?referralExperimentNid=DEFAULT_REFERRAL_PROGRAM&referrerUsername=SomveerKumar" height="30" width="40" /></a>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
