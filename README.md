@@ -50,6 +50,8 @@ I am Somveer Kumar
 <a href="https://www.sanity.io/" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSReHvByZkJhXRzuDuLPfYtmdNlOk6JsTRn1w&s" alt="sanity" height="40"/> </a>
 <!-- Law -->
 <a href="#" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/premium-vector/gavel-icon-vector-law-judge-s-hammer-symbol-sign-auction-hammer-isolated-white_359398-607.jpg" alt="law" width="40" height="40"/> </a>
+  <!-- Video Editing -->
+  <a href="video editing" target="_blank" rel="noreferrer"> <img src="https://static.vecteezy.com/system/resources/thumbnails/010/952/951/small/movie-film-editor-logo-design-video-editing-logo-concept-vector.jpg" alt="video editing" width="40" height="40"/> </a>
 </p>
   
 
