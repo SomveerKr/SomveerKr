@@ -52,7 +52,7 @@ I am Somveer Kumar
 <!-- Law -->
 <a href="#law" target="_blank" rel="noreferrer"> <img src="https://img.freepik.com/premium-vector/gavel-icon-vector-law-judge-s-hammer-symbol-sign-auction-hammer-isolated-white_359398-607.jpg" alt="law" width="40" height="40"/> </a>
   <!-- Video Editing -->
-  <a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" height="40"/> </a>
+  <a href="https://wordpress.org/download/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-ar21.svg" alt="wordpress" height="60"/> </a>
 </p>
   
 
