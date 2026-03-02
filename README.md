@@ -6,7 +6,7 @@ I am Somveer Kumar
 
 "Dream it, I'll build it. As a Full Stack and Python Programmer, I leverage AI to turn your ideas into functional software, incredibly fast."
 
-👨‍💻Want to know more about me? <a href="https://somveerkumar.netlify.app/" target="_blank" alt="Somveer Kumar Website" >Check out my portfolio</a>
+👨‍💻Want to know more about me? <a href="https://somveerkumar.vercel.app/" target="_blank" alt="Somveer Kumar Website" >Check out my portfolio</a>
 
 
 <!--  - 📝 Check my articles on <a href="https://hashnode.com/@SomveerKumar" target="_blank" rel="noreferrer" alt="Somveer Kumar Website" >Hashnode</a> -->
