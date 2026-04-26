@@ -18,7 +18,7 @@
 
 I'm a law graduate turned full-stack developer, specializing in **legal technology** — a niche where almost nobody else operates. I build products that solve real problems lawyers face daily: tracking expenses, managing contracts, and monitoring court dates.
 
-- 🏗️ Currently building **[toolsforlawyer.com](https://toolsforlawyer.com)** — a suite of productivity tools for legal professionals
+- 🏗️ Currently building **[toolsforlawyer.com](https://toolsforlawyer.com)** — a suite of productivity tools for legal professionals and **[codeveer.in](https://codeveer.in)** - an agency which help Indian businesses grow faster by helping them in web and app development to design to digital marketing and so on.
 - ⚡ I use React, Python, Flask, and Supabase to ship fast, functional products
 - 🧠 Background in Indian law (Contract Act, CPC, BNSS, Transfer of Property Act)
 - 💼 Open to **freelance projects** — web apps, automation, and legal tech
@@ -31,8 +31,8 @@ I'm a law graduate turned full-stack developer, specializing in **legal technolo
 |--------|-------------|-------|
 | **toolsforlawyer.com** | Productivity suite for lawyers | React, Supabase |
 | **Legal Expense Tracker** | Track and analyze legal costs | Python, Flask |
-| **Contract Clause Bank** | Searchable library of contract clauses | React, SQLite |
-| **Court Alert System** | Automated court date reminders | Python, Automation |
+| **Codeveer Log** | Blogging Website - Portfolio Project | Flask, SQLite, SQLalchemy, python, Werkzeug |
+| **Court Alert System** | Automated court date reminders - Currently building | Python, Automation |
 
 ---
 
