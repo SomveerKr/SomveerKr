@@ -20,7 +20,6 @@ I'm a law graduate turned full-stack developer, specializing in **legal technolo
 
 - 🏗️ Currently building **[toolsforlawyer.com](https://toolsforlawyer.com)** — a suite of productivity tools for legal professionals and **[codeveer.in](https://codeveer.in)** - an agency which help Indian businesses grow faster by helping them in web and app development to design to digital marketing and so on.
 - ⚡ I use React, Python, Flask, and Supabase to ship fast, functional products
-- 🧠 Background in Indian law (Contract Act, CPC, BNSS, Transfer of Property Act)
 - 💼 Open to **freelance projects** — web apps, automation, and legal tech
 
 ---
