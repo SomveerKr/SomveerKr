@@ -9,7 +9,7 @@
   <a href="https://somveerkumar.dev">Portfolio</a> ·
   <a href="mailto:work.somveerk@gmail.com">Hire Me</a> ·
   <a href="https://contra.com/SomveerKumar">Client Reviews</a> ·
-  <a href="https://www.linkedin.com/in/somveerkumar/">LinkedIn</a>
+  <a href="https://www.linkedin.com/company/kodeveer/">LinkedIn</a>
 </p>
 
 ---
