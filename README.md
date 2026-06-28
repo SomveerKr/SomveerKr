@@ -57,5 +57,5 @@ If you need a developer who understands **both code and law**, I'm available for
 📧 **[work.somveerk@gmail.com](mailto:work.somveerk@gmail.com)**
 
 [![Twitter](https://img.shields.io/badge/Twitter-@Code_Veer-1DA1F2?style=flat&logo=twitter)](https://twitter.com/code_veer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-somveerkumar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/somveerkumar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-kodeveer-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kodeveer/)
 [![YouTube](https://img.shields.io/badge/YouTube-@CodeVeer-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@CodeVeer)
