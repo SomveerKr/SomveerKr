@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Somveer Kumar 👋</h1>
 
 <p align="center">
-  <strong>Full Stack Developer · Legal Tech Builder · Law Graduate</strong><br/>
+  <strong>Full Stack Developer · Web Automation & Scraping · Wordpress Developer</strong><br/>
   Building software tools for the legal industry · Delhi, India
 </p>
 
@@ -40,8 +40,7 @@ I'm a law graduate turned full-stack developer, specializing in **legal technolo
 **Frontend:** React.js · Next.js · TypeScript · Tailwind CSS  
 **Backend:** Python · Flask · Node.js · Express  
 **Database:** Supabase · MongoDB · MySQL · SQLite  
-**Tools:** Figma · Postman · WordPress · Web Scraping  
-**Domain:** Indian Law · Contract Drafting · Legal Research
+**Tools:** Figma · Postman · WordPress · Web Scraping 
 
 ---
 
