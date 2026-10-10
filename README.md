@@ -1,60 +1,25 @@
-<h1 align="center">Hey, I'm Somveer Kumar 👋</h1>
+# Somveer Kumar
 
-<p align="center">
-  <strong>Full Stack Developer · Web Automation & Scraping · Wordpress Developer</strong><br/>
-  Building software tools for the legal industry · Delhi, India
-</p>
+**Full-Stack Developer | Web Applications & Business Automation**
 
-<p align="center">
-  <a href="https://somveerkumar.dev">Portfolio</a> ·
-  <a href="mailto:work.somveerk@gmail.com">Hire Me</a> ·
-  <a href="https://contra.com/SomveerKumar">Client Reviews</a> ·
-  <a href="https://www.linkedin.com/company/kodeveer/">LinkedIn</a>
-</p>
+I help founders and businesses build products, improve existing applications, and automate repetitive work. I bring 4+ years of experience building and optimizing software.
 
----
+[Portfolio](https://somveerkumar.dev/) | [Client Reviews](https://contra.com/SomveerKumar)
 
-### About Me
+## How I Can Help
 
-I'm a law graduate turned full-stack developer, specializing in **legal technology** — a niche where almost nobody else operates. I build products that solve real problems lawyers face daily: tracking expenses, managing contracts, and monitoring court dates.
+- Build web apps, MVPs, and business websites that work across devices.
+- Improve existing products with bug fixes, API integrations, and performance improvements.
+- Reduce manual work with Python automation and web scraping.
 
-- 🏗️ Currently building **[toolsforlawyer.com](https://toolsforlawyer.com)** — a suite of productivity tools for legal professionals and **[codeveer.in](https://codeveer.in)** - an agency which help Indian businesses grow faster by helping them in web and app development to design to digital marketing and so on.
-- ⚡ I use React, Python, Flask, and Supabase to ship fast, functional products
-- 💼 Open to **freelance projects** — web apps, automation, and legal tech
+## Selected Work
 
----
+- **[PyrexiaMed](https://pyrexiamed.com/)** - Mobile-friendly medical exam preparation with question banks, quizzes, and progress tracking.
+- **[Codeveer](https://www.codeveer.in/)** - Business website with services, portfolio, and a structured project inquiry flow.
+- **[Tiles](https://tiles-pattern-generator.netlify.app/)** - Interactive pattern preview with image uploads and adjustable repeat scale.
 
-### What I've Built
+## Core Stack
 
-| Project | Description | Stack |
-|--------|-------------|-------|
-| **toolsforlawyer.com** | Productivity suite for lawyers | React, Supabase |
-| **Legal Expense Tracker** | Track and analyze legal costs | Python, Flask |
-| **Codeveer Log** | Blogging Website - Portfolio Project | Flask, SQLite, SQLalchemy, python, Werkzeug |
-| **Court Alert System** | Automated court date reminders - Currently building | Python, Automation |
+Next.js, React, TypeScript, Node.js, PostgreSQL, Python, and Supabase.
 
----
-
-### Tech Stack
-
-**Frontend:** React.js · Next.js · TypeScript · Tailwind CSS  
-**Backend:** Python · Flask · Node.js · Express  
-**Database:** Supabase · MongoDB · MySQL · SQLite  
-**Tools:** Figma · Postman · WordPress · Web Scraping 
-
----
-
-### GitHub Stats
-
-![Somveer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SomveerKr&show_icons=true&theme=dark&hide_border=true)
-
----
-
-### Let's Connect
-
-If you need a developer who understands **both code and law**, I'm available for freelance work.  
-📧 **[work.somveerk@gmail.com](mailto:work.somveerk@gmail.com)**
-
-[![Twitter](https://img.shields.io/badge/Twitter-@Code_Veer-1DA1F2?style=flat&logo=twitter)](https://twitter.com/code_veer)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-kodeveer-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kodeveer/)
-[![YouTube](https://img.shields.io/badge/YouTube-@CodeVeer-FF0000?style=flat&logo=youtube)](https://www.youtube.com/@CodeVeer)
+**Have a product to build or improve?** [Let's talk](mailto:work.somveerk@gmail.com).
